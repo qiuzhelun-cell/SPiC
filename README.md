@@ -1,2 +1,2 @@
-# YanpeiChe
+# SPiC
 SPiC作业
